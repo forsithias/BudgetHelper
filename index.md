@@ -4,13 +4,13 @@ You can use the [editor on GitHub](https://github.com/forsithias/BudgetHelper/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+You'll find an assortment of various tools and aides, to help you become more financially literate and proficient within financial tasks, such as with budgeting.
+
 ```markdown
-***What we have to offer:***
 - Budgeting Tools
 - Simple Plans
 - Simple Advice
 - Simple Investment Stategies
-
 ```
 
 ### Markdown
