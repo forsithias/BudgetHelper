@@ -1,7 +1,7 @@
 ![Image of logo]
 (http://imgur.com/aQP2B5n.jpg)
 
-## Interested in becoming financially literate?
+## Interested in becoming financially literate? uwu
 
 You can use the [editor on GitHub](https://github.com/forsithias/BudgetHelper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
