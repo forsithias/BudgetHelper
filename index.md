@@ -1,12 +1,8 @@
 ![Image of logo](http://imgur.com/aQP2B5n.jpg)
 
-## Interested in becoming financially literate? uwu
+## Interested in becoming financially literate?
 
-You can use the [editor on GitHub](https://github.com/forsithias/BudgetHelper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-You'll find an assortment of various tools and aides, to help you become more financially literate and proficient within financial tasks, such as with budgeting.
+At BudgetHelper, you'll find an assortment of various tools and aides, to help you become more financially literate and proficient within financial tasks, such as with budgeting.
 
 ```markdown
 - Budgeting Tools
