@@ -1,5 +1,4 @@
-![Image of logo]
-(http://imgur.com/aQP2B5n.jpg)
+![Image of logo](http://imgur.com/aQP2B5n.jpg)
 
 ## Interested in becoming financially literate? uwu
 
